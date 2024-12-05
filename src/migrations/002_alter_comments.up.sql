@@ -1,0 +1,2 @@
+ALTER TABLE comments
+ADD comment TEXT NOT NULL;
